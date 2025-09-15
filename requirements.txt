@@ -1,0 +1,9 @@
+xero-python>=1.20.0
+requests-oauthlib>=1.3.1
+oauthlib>=3.2.2
+python-dotenv>=1.0.0
+pandas>=1.5.0
+openpyxl>=3.0.0
+requests>=2.28.0
+python-dateutil>=2.8.2
+pytz>=2022.1
